@@ -4,7 +4,6 @@ This is 1D implementation of "SinGAN: Learning a Generative Model from a Single 
 
 
 
-* [Pytorch Official ImageNet Example](https://github.com/pytorch/examples/tree/master/imagenet)
 
 
 ## Results
