@@ -5,8 +5,12 @@ This is 1D implementation of "SinGAN: Learning a Generative Model from a Single 
 
 
 * [Pytorch Official ImageNet Example](https://github.com/pytorch/examples/tree/master/imagenet)
-* [Official Repository of " Which Training Methods for GANs do actually Converge?"](https://github.com/LMescheder/GAN_stability)
 
+
+## Results
+
+![alt text](/img/input.png "Input")
+![alt text](/img/output.png "Output")
 ## NOTE
 This repository uses the base official SinGAN as basic structure: [SinGAN Official Pytorch implementation](https://github.com/tamarott/SinGAN). It was used to simulate the SinGAN environment on 1 Dimensional Distance / or Signal
 
